@@ -24,10 +24,11 @@ Anthropic priced its IPO at $83 a share, raising $81.3B — the largest stock-ma
 - BusinessWorld (Reuters), "Anthropic clinches biggest IPO ever with $81 billion offering": https://bworldonline.com/technology/2026/11/19/794922/anthropic-clinches-biggest-ipo-ever-with-81-billion-offering/
 - ValueWalk, "Anthropic prices IPO at $83 a share, set for record Nasdaq debut as ANT": https://www.valuewalk.com/anthropic-prices-ipo-at-83-a-share-set-for-record-nasdaq-debut-as-ant/
 
-## 5. Iran strikes Gulf states (Conflict)
-Iran attacked Kuwait and Bahrain, widening the fight over the Strait of Hormuz after US strikes on Qeshm Island; tankers were reported hit by mines in the Strait.
-- Hansen Intel, "World News Today: International Headlines" (19 Nov 2026 briefing, citing The Wall Street Journal): https://hansenintelreport.com/
-- One Turn, "World news today": https://oneturn.news/news/
+## 5. Houthi missile hits Riyadh tower (Conflict)
+A suspected Houthi missile struck the PIF Tower in Riyadh early on Thursday 19 November 2026 — the headquarters of Saudi Arabia's sovereign wealth fund and the city's tallest skyscraper — blowing out windows across seven to eight floors and bending parts of its metal facade. It was the second Houthi strike on a landmark in Riyadh's King Abdullah Financial District in less than two weeks, after the Aramco building was hit on 8 November. The Saudi-led coalition said it had dealt with a missile threat towards Riyadh; no casualties were immediately reported, and the Houthis did not immediately claim the strike.
+- Reuters (via SRN News), "Riyadh skyscraper housing Saudi wealth fund damaged in Houthi strike, sources say": https://srnnews.com/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says/
+- TBS News, "Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ": https://www.tbsnews.net/worldbiz/middle-east/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq-1607841
+- Reuters, "Houthi attacks on Saudi Arabia": https://www.reuters.com/world/middle-east/houthi-attacks-saudi-arabia-2026-11-19/
 
 ## 6. Ukraine hits Kerch Bridge again (War)
 A third Ukrainian strike in four days halted rail traffic on the Kerch Bridge linking Russia to occupied Crimea; Putin vowed a "far more painful" response.
